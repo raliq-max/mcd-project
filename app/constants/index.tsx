@@ -50,13 +50,13 @@ export const newFeatures = [
 export const insights = [
   {
     imgUrl: "/about1.jpeg",
-    title: "McDonald&lsquo;s Expands Its Menu with Local Favorites",
+    title: "McDonald's Expands Its Menu with Local Favorites",
     subtitle:
       "We continue to innovate our menu by incorporating local flavors and customer favorites to give you the best dining experience",
   },
   {
     imgUrl: "/about2.jpg",
-    title: "7 Must-Try Combinations at McDonald&lsquo;s",
+    title: "7 Must-Try Combinations at McDonald's",
     subtitle:
       "Discover amazing food pairings that elevate your meal experience. From classic combos to new creations, find your favorite",
   },
@@ -64,7 +64,7 @@ export const insights = [
     imgUrl: "/about3.jpeg",
     title: "Delicious Food at Your Doorstep with Our Express Delivery",
     subtitle:
-      "Order from McDonald&lsquo;s and get your favorite meals delivered hot and fresh to your home with our reliable delivery service",
+      "Order from McDonald's and get your favorite meals delivered hot and fresh to your home with our reliable delivery service",
   },
 ];
 
