@@ -29,7 +29,7 @@ const Navbar = () => {
           {/* Logo/Brand */}
           <Link href="#home" className="z-10">
             <h2 className="font-extrabold text-[24px] leading-[30.24px] text-white hover:text-mcdonalds-gold transition-colors duration-300">
-              McDonald's
+              McDonald&#39;s
             </h2>
           </Link>
 
