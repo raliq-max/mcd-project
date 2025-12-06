@@ -18,7 +18,7 @@ const World = () => (
       <TitleText
         title={
           <>
-            Connect with McDonald's lovers and find restaurants near you
+            Connect with McDonald&#39;s lovers and find restaurants near you
           </>
         }
         textStyles="text-center"
