@@ -31,9 +31,9 @@ const About = () => (
         <span className="font-extrabold text-white">
           taste of happiness
         </span>
-        &nbsp;with every bite. Whether you&lsquo;re grabbing a quick meal or
+        &nbsp;with every bite. Whether you're grabbing a quick meal or
         enjoying with loved ones, McDonald's is where flavor meets convenience.
-        Let&lsquo;s&nbsp;
+        Let's&nbsp;
         <span className="font-extrabold text-white">taste</span> the magic of
         McDonald's by exploring our menu below
       </motion.p>

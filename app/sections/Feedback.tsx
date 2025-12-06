@@ -23,11 +23,11 @@ const Feedback = () => (
             Sarah Johnson
           </h4>
           <p className="mt-[8px] font-normal sm:text-[18px] text-[12px] sm:leading-[22px] leading-[16px] text-white">
-            CEO | McDonald&lsquo;s International
+            CEO | McDonald's International
           </p>
         </div>
         <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45px] leading-[39px] text-white">
-          "At McDonald&lsquo;s, we&lsquo;re committed to serving delicious meals with exceptional quality. Our innovation in food delivery and customer experience makes us leaders in the fast-food industry"
+          "At McDonald's, we're committed to serving delicious meals with exceptional quality. Our innovation in food delivery and customer experience makes us leaders in the fast-food industry"
         </p>
       </motion.div>
       <motion.div
