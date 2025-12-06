@@ -14,12 +14,11 @@ const World = () => (
       viewport={{ once: false, amount: 0.25 }}
       className="innerWidth mx-auto flex flex-col"
     >
-      <TypingText title="| People on the World" textStyles="text-center" />
+      <TypingText title="| Our Community" textStyles="text-center" />
       <TitleText
         title={
           <>
-            Track friends around you and invite them to play together in the
-            same world
+            Connect with McDonald's lovers and find restaurants near you
           </>
         }
         textStyles="text-center"
@@ -36,16 +35,16 @@ const World = () => (
           alt="map"
           className="w-full h-full object-cover"
         />
-        <div className="absolute bottom-20 right-20 w-[70px] h-[70px] p-[6px] rounded-full bg-[#5D6680]">
+        <div className="absolute bottom-20 right-20 w-[70px] h-[70px] p-[6px] rounded-full bg-[#D32F2F]">
           <Image
             src="/people-01.png"
             width={1000}
             height={1000}
-            alt="people"
+            alt="customer"
             className="w-full h-full"
           />
         </div>
-        <div className="absolute top-10 left-20 w-[70px] h-[70px] p-[6px] rounded-full bg-[#5D6680]">
+        <div className="absolute top-10 left-20 w-[70px] h-[70px] p-[6px] rounded-full bg-[#D32F2F]">
           <Image
             src="/people-02.png"
             width={1000}
@@ -54,12 +53,12 @@ const World = () => (
             className="w-full h-full"
           />
         </div>
-        <div className="absolute top-1/2 left-[45%] w-[70px] h-[70px] p-[6px] rounded-full bg-[#5D6680]">
+        <div className="absolute top-1/2 left-[45%] w-[70px] h-[70px] p-[6px] rounded-full bg-[#D32F2F]">
           <Image
             src="/people-03.png"
             width={1000}
             height={1000}
-            alt="people"
+            alt="customer"
             className="w-full h-full"
           />
         </div>

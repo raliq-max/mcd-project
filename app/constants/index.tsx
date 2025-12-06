@@ -1,70 +1,70 @@
-export const exploreWorlds = [
+  export const exploreWorlds = [
   {
     id: "world-1",
-    imgUrl: "/planet-01.png",
-    title: "The Hogwarts",
+    imgUrl: "/food1.jpeg",
+    title: "Big Mac Combo",
   },
   {
     id: "world-2",
-    imgUrl: "/planet-02.png",
-    title: "The Upside Down",
+    imgUrl: "/food2.jpeg",
+    title: "Crispy Fried Chicken",
   },
   {
     id: "world-3",
-    imgUrl: "/planet-03.png",
-    title: "Kadirojo Permai",
+    imgUrl: "/food3.jpeg",
+    title: "Golden Fries",
   },
   {
     id: "world-4",
-    imgUrl: "/planet-04.png",
-    title: "Paradise Island",
+    imgUrl: "/food4.jpeg",
+    title: "McFlurry Delight",
   },
   {
     id: "world-5",
-    imgUrl: "/planet-05.png",
-    title: "Hawkins Labs",
+    imgUrl: "/food5.jpeg",
+    title: "Premium Burgers",
   },
 ];
 
 export const startingFeatures = [
-  "Find a world that suits you and you want to enter",
-  "Enter the world by reading basmalah to be safe",
-  "No need to beat around the bush, just stay on the gas and have fun",
+  "Browse our delicious menu & select your favorite items",
+  "Customize your order with toppings and sides",
+  "Complete checkout and enjoy your meal at home or dine-in",
 ];
 
 export const newFeatures = [
   {
     imgUrl: "/vrpano.svg",
-    title: "A new world",
+    title: "New Menu Items",
     subtitle:
-      "we have the latest update with new world for you to try never mind",
+      "Discover our latest additions featuring fresh ingredients and exciting flavors to satisfy every craving",
   },
   {
     imgUrl: "/headset.svg",
-    title: "More realistic",
+    title: "Faster Delivery",
     subtitle:
-      "In the latest update, your eyes are narrow, making the world more realistic than ever",
+      "Experience our improved delivery system with real-time tracking to ensure your meal arrives hot and fresh",
   },
 ];
 
 export const insights = [
   {
-    imgUrl: "/planet-06.png",
-    title: "The launch of the Metaverse makes Elon musk ketar-ketir",
+    imgUrl: "/about1.jpeg",
+    title: "McDonald&lsquo;s Expands Its Menu with Local Favorites",
     subtitle:
-      "Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.",
+      "We continue to innovate our menu by incorporating local flavors and customer favorites to give you the best dining experience",
   },
   {
-    imgUrl: "/planet-07.png",
-    title: "7 tips to easily master the madness of the Metaverse",
+    imgUrl: "/about2.jpg",
+    title: "7 Must-Try Combinations at McDonald&lsquo;s",
     subtitle:
-      "Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum",
+      "Discover amazing food pairings that elevate your meal experience. From classic combos to new creations, find your favorite",
   },
   {
-    imgUrl: "/planet-08.png",
-    title: "With one platform you can explore the whole world virtually",
+    imgUrl: "/about3.jpeg",
+    title: "Delicious Food at Your Doorstep with Our Express Delivery",
     subtitle:
-      "Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem",
+      "Order from McDonald&lsquo;s and get your favorite meals delivered hot and fresh to your home with our reliable delivery service",
   },
 ];
 

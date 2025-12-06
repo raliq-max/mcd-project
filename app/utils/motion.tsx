@@ -143,6 +143,27 @@ export const planetVariants = (
   },
 });
 
+export const floatingVariants = {
+  hidden: {
+    opacity: 0,
+  },
+  show: {
+    opacity: 1,
+    y: [0, 20, 0],
+    transition: {
+      opacity: {
+        duration: 0.5,
+      },
+      y: {
+        duration: 3,
+        repeat: Infinity,
+        ease: "easeInOut",
+        delay: 0.5,
+      },
+    },
+  },
+};
+
 
 export const zoomIn = ( delay?:number, duration?: number) => ({
   hidden: {

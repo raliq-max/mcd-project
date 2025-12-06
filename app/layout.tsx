@@ -3,8 +3,8 @@ import "./styles/globals.css";
 
 
 export const metadata: Metadata = {
-  title: "Metaversus",
-  description: "A Metaverse Landing Page",
+  title: "McDonald's",
+  description: "McDonald's - I'm Lovin' It",
 };
 
 export default function RootLayout({

@@ -16,25 +16,26 @@ const About = () => (
       viewport={{ once: false, amount: 0.25 }}
       className="innerWidth mx-auto flexCenter flex-col"
     >
-      <TypingText title="| About Metaversus" textStyles="text-center" />
+      <TypingText title="| About McDonald's" textStyles="text-center" />
 
       <motion.p
         variants={fadeIn("up", "tween", 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">Metaverse</span> is a new
-        thing in the future, where you can enjoy the virtual world by feeling
-        like it&lsquo;is really real, you can feel what you feel in this
-        metaverse world, because this is really the&nbsp;
+        <span className="font-extrabold text-white">McDonald's</span> is your
+        trusted destination for delicious food and exceptional service. Since
+        our founding, we've been committed to serving quality meals that bring
+        joy to families everywhere. From our iconic Big Mac to crispy golden
+        fries, every item on our menu is prepared with care and the freshest
+        ingredients. Experience the&nbsp;
         <span className="font-extrabold text-white">
-          madness of the metaverse
+          taste of happiness
         </span>
-        &nbsp; of today, using only&nbsp;
-        <span className="font-extrabold text-white">VR</span> devices you can
-        easily explore the metaverse world you want, turn your dreams into
-        reality. Let&lsquo;s&nbsp;
-        <span className="font-extrabold text-white">explore</span> the madness
-        of the metaverse by scrolling down
+        &nbsp;with every bite. Whether you&lsquo;re grabbing a quick meal or
+        enjoying with loved ones, McDonald's is where flavor meets convenience.
+        Let&lsquo;s&nbsp;
+        <span className="font-extrabold text-white">taste</span> the magic of
+        McDonald's by exploring our menu below
       </motion.p>
       <motion.div variants={fadeIn("up", "tween", 0.3, 1)}>
         <Link href="#explore">

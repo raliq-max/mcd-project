@@ -20,7 +20,7 @@ const GetStarted = () => (
         className="flex-1 flexCenter"
       >
         <Image
-          src="/get-started.png"
+          src="/burger3d.png"
           width={1000}
           height={1000}
           alt="get-started"
@@ -32,8 +32,8 @@ const GetStarted = () => (
         variants={fadeIn("left", "tween", 0.2, 1)}
         className="flex-[0.75] flex justify-center flex-col"
       >
-        <TypingText title="| How Metaversus Works" />
-        <TitleText title={<>Get Started with just a few clicks</>} />
+        <TypingText title="| How McDonald's Works" />
+        <TitleText title={<>Order Your Favorite in Just a Few Clicks</>} />
         <div className="mt-[31px] flex flex-col max-w-[370px] gap-[24px]">
           {startingFeatures.map((feature, index) => (
             <StartSteps key={feature} number={index + 1} text={feature} />

@@ -9,8 +9,10 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        "primary-black": "#1A232E",
+        "primary-black": "#0F0F0F",
         "secondary-white": "#c7c7c7",
+        "mcdonalds-red": "#D32F2F",
+        "mcdonalds-gold": "#FFC72C",
       },
       transitionTimingFunction: {
         "out-flex": "cubic-bezier(0.05, 0.6, 0.4, 0.9)",

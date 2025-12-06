@@ -16,15 +16,15 @@ const Hero = () => (
     >
       <div className="flexCenter flex-col relative z-10">
         <motion.h1 variants={textVariant(1.1)} className="heroHeading">
-          Metaverse
+          McDonald&lsquo;s
         </motion.h1>
         <motion.div
           variants={textVariant(1.2)}
           className="flex flex-row justify-center items-center"
         >
-          <h1 className="heroHeading">Ma</h1>
+          <h1 className="heroHeading">I&lsquo;m</h1>
           <div className="heroDText" />
-          <h1 className="heroHeading">ness</h1>
+          <h1 className="heroHeading">in</h1>
         </motion.div>
       </div>
       <motion.div
@@ -33,7 +33,7 @@ const Hero = () => (
       >
         <div className="absolute w-full h-[300px] hero-gradient rounded-tl-[140px] z-[0] -top-[30px]" />
         <Image
-          src="/cover.png"
+          src="/background.jpg"
           width={1000}
           height={1000}
           alt="cover"
